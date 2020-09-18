@@ -1,3 +1,4 @@
 Hi All, This is sujeet
+<<<<<<< HEAD
 I am adding few more lines here.
 Then am going to create the new brnch on the base of develop.
