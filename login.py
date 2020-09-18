@@ -15,3 +15,7 @@ log.check(raw_input("Enter Login ID:"),
         input("Enter password: "))
 
 print "Login Page" 
+a=15
+b=20
+c=a+b
+print(c)
