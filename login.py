@@ -15,9 +15,9 @@ log.check(raw_input("Enter Login ID:"),
         input("Enter password: "))
 
 print "Login Page" 
-<<<<<<< HEAD
-
 a=10
 b=25
 c=a+b
+d=a*c
 print(c)
+print(d)
